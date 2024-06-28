@@ -81,7 +81,7 @@ info:
 validation:
 	@echo "## validating python version"
 	. $(DATA_ENV_DIR)/.venv/bin/activate \
-	&& python -V | grep 3.12.2 |if read remote; then echo "\t- .venv has $${remote} ";else echo "\tYou have not installed PYTHON VERSION 3.12.2 \n\t- Delete .venv and activate conda environment with python version 3.12.2 \n\t- pull again \n\t- validation failed ❌";exit 125 ;fi \
+	&& python -V | grep 3.11.5 |if read remote; then echo "\t- .venv has $${remote} ";else echo "\tYou have not installed PYTHON VERSION 3.11.5 \n\t- Delete .venv and activate conda environment with python version 3.11.5 \n\t- pull again \n\t- validation failed ❌";exit 125 ;fi \
 	&& echo "\t- validation success ✅"
 
 # ----------- EXERCICES ---------------#
@@ -89,7 +89,7 @@ testingcom:
 	@echo "..............."
 	@echo ${PYTHON_VERSION}
 	. $(DATA_ENV_DIR)/.venv/bin/activate \
-	PYTHON_VERSION := && python -V | grep 3.12.2
+	PYTHON_VERSION := && python -V | grep 3.11.5
 	@echo ${PYTHON_VERSION}
 
 # ----------     exit code     ----------
