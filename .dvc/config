@@ -1,0 +1,5 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = gs://b1-computer-vision/n_model
+    version_aware = true
