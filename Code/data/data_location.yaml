@@ -1,0 +1,6 @@
+path: C:\ConceivableProjects\shinny_egg\v1
+train: images/train 
+val: images/val 
+
+names:
+  0: shinny_egg

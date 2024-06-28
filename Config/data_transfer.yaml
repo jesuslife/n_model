@@ -1,0 +1,1057 @@
+INNER_PROJECT_DIR: C:\ConceivableProjects\Rutine2\v0.0.4
+augmented_data_names: []
+classes_config: yolov5\models\yolov5l.yaml
+code_folder: C:\ConceivableProjects\Rutine2\v0.0.4\Code
+code_train_runs: C:\ConceivableProjects\Rutine2\v0.0.4\Code\runs\train
+cross_val_dir: C:\ConceivableProjects\Rutine2\v0.0.4\Data\cross_val_dir
+data_folder: C:\ConceivableProjects\Rutine2\v0.0.4\Data
+data_location_yaml: C:\ConceivableProjects\Rutine2\v0.0.4\Config\data_location.yaml
+data_yaml: yolov5\data\data_location.yaml
+destine_exp_folder: C:\ConceivableProjects\Rutine2\v0.0.4\Data\runs\train1_results
+detects_folder: C:\ConceivableProjects\Rutine2\v0.0.4\Data\Detects
+final_folder_names:
+- Weights
+- Launchers
+- Config
+- Data
+- Export
+hyp_yaml: yolov5\data\hyps\hyp.basic.yaml
+hyps_yaml: C:\ConceivableProjects\Rutine2\v0.0.4\Config\hyps.yaml
+imgs_folder: C:\ConceivableProjects\Rutine2\v0.0.4\Data\images
+imgs_train_folder: C:\ConceivableProjects\Rutine2\v0.0.4\Data\images\train
+imgs_val_folder: C:\ConceivableProjects\Rutine2\v0.0.4\Data\images\val
+launchers_folder: C:\ConceivableProjects\Rutine2\v0.0.4\Launchers
+lbs_folder: C:\ConceivableProjects\Rutine2\v0.0.4\Data\labels
+lbs_train_folder: C:\ConceivableProjects\Rutine2\v0.0.4\Data\labels\train
+lbs_val_folder: C:\ConceivableProjects\Rutine2\v0.0.4\Data\labels\val
+new_weights: C:\ConceivableProjects\Rutine2\v0.0.4\Weights\best.pt
+params_yaml_dir: params.yaml
+pre_weights: C:\ConceivableProjects\Rutine2\v0.0.4\Weights\pre.pt
+runs_directory: C:\ConceivableProjects\Rutine2\v0.0.4\Data\runs
+train_bg:
+- AR2 - 1_frame_1084.jpg
+- AR2 - 1_frame_1088.jpg
+- AR2 - 1_frame_1092.jpg
+- AR2 - 1_frame_1096.jpg
+- AR2 - 1_frame_1100.jpg
+- AR2 - 1_frame_1104.jpg
+- AR2 - 1_frame_1108.jpg
+- AR2 - 1_frame_1112.jpg
+- AR2 - 1_frame_1116.jpg
+- AR2 - 1_frame_1120.jpg
+- AR2 - 1_frame_368.jpg
+- AR2 - 1_frame_372.jpg
+- AR2 - 1_frame_376.jpg
+- AR2 - 1_frame_380.jpg
+- AR2 - 1_frame_384.jpg
+- AR2 - 1_frame_388.jpg
+- AR2 - 1_frame_392.jpg
+- AR2 - 1_frame_396.jpg
+- AR2 - 1_frame_400.jpg
+- AR2 - 1_frame_404.jpg
+- AR2 - 1_frame_408.jpg
+- AR2 - 1_frame_412.jpg
+- AR2 - 1_frame_416.jpg
+- AR2 - 1_frame_420.jpg
+- AR2 - 1_frame_424.jpg
+- AR2 - 1_frame_428.jpg
+- AR2 - 1_frame_432.jpg
+- AR2 - 1_frame_436.jpg
+- AR2 - 1_frame_440.jpg
+- AR2 - 1_frame_444.jpg
+- AR2 - 1_frame_448.jpg
+- AR2 - 1_frame_452.jpg
+- AR2 - 1_frame_456.jpg
+- AR2 - 1_frame_460.jpg
+- AR2 - 1_frame_464.jpg
+- AR2 - 1_frame_468.jpg
+- AR2 - 1_frame_472.jpg
+- AR2 - 1_frame_476.jpg
+- AR2 - 1_frame_480.jpg
+- AR2 - 1_frame_484.jpg
+- AR2 - 1_frame_488.jpg
+- AR2 - 1_frame_492.jpg
+- AR2 - 1_frame_496.jpg
+- AR2 - 1_frame_500.jpg
+- AR2 - 1_frame_504.jpg
+- AR2 - 1_frame_508.jpg
+- AR2 - 1_frame_512.jpg
+- AR2 - 1_frame_516.jpg
+- AR2 - 1_frame_520.jpg
+- AR2 - 1_frame_524.jpg
+- AR2 - 1_frame_528.jpg
+- AR2 - 1_frame_532.jpg
+- AR2 - 1_frame_536.jpg
+- AR2 - 1_frame_540.jpg
+- AR2 - 1_frame_544.jpg
+- AR2 - 1_frame_548.jpg
+- AR2 - 1_frame_552.jpg
+- AR2 - 1_frame_556.jpg
+- AR2 - 1_frame_560.jpg
+- AR2 - 1_frame_564.jpg
+- AR2 - 1_frame_568.jpg
+- AR2 - 1_frame_572.jpg
+- AR2 - 1_frame_576.jpg
+- AR2 - 1_frame_580.jpg
+- AR2 - 1_frame_584.jpg
+- AR2 - 1_frame_588.jpg
+- AR2 - 1_frame_592.jpg
+- AR2 - 1_frame_596.jpg
+- AR2 - 1_frame_600.jpg
+- AR2 - 1_frame_604.jpg
+- AR2 - 1_frame_608.jpg
+- AR2 - 1_frame_612.jpg
+- AR2 - 1_frame_616.jpg
+- AR2 - 1_frame_620.jpg
+- AR2 - 1_frame_624.jpg
+- AR2 - 1_frame_628.jpg
+- AR2 - 1_frame_632.jpg
+- AR2 - 1_frame_636.jpg
+- AR2 - 1_frame_640.jpg
+- AR2 - 1_frame_644.jpg
+- AR2 - 1_frame_648.jpg
+- AR2 - 1_frame_652.jpg
+- AR2 - 1_frame_656.jpg
+- AR2 - 1_frame_660.jpg
+- AR2 - 1_frame_664.jpg
+- AR2 - 1_frame_668.jpg
+- AR2 - 1_frame_672.jpg
+- AR2 - 1_frame_676.jpg
+- AR2 - 1_frame_680.jpg
+- AR2 - 1_frame_684.jpg
+- AR2 - 1_frame_688.jpg
+- AR2 - 1_frame_692.jpg
+- AR2 - 1_frame_696.jpg
+- AR2 - 1_frame_700.jpg
+- AR2 - 1_frame_704.jpg
+- AR2 - 1_frame_708.jpg
+- AR2 - 1_frame_712.jpg
+- AR2 - 1_frame_716.jpg
+- AR2 - 1_frame_720.jpg
+- AR2 - 1_frame_724.jpg
+- AR2 - 1_frame_728.jpg
+- AR2 - 1_frame_732.jpg
+- AR2 - 1_frame_736.jpg
+- AR2 - 1_frame_740.jpg
+- AR2 - 1_frame_744.jpg
+- AR2 - 1_frame_748.jpg
+- AR2 - 1_frame_752.jpg
+- AR2 - 1_frame_756.jpg
+- AR2 - 1_frame_760.jpg
+- AR2 - 1_frame_764.jpg
+- AR2 - 1_frame_768.jpg
+- AR2 - 1_frame_772.jpg
+- AR2 - 1_frame_776.jpg
+- AR2 - 1_frame_780.jpg
+- AR2 - 1_frame_784.jpg
+- AR2 - 1_frame_788.jpg
+- AR2 - 1_frame_792.jpg
+- AR2 - 1_frame_796.jpg
+- AR2 - 1_frame_800.jpg
+- AR2 - 1_frame_804.jpg
+- AR2 - 1_frame_808.jpg
+- AR2 - 1_frame_812.jpg
+- AR2 - 1_frame_816.jpg
+- AR2 - 1_frame_820.jpg
+- AR2 - 1_frame_824.jpg
+- AR2 - 2_frame_1019.jpg
+- AR2 - 2_frame_1020.jpg
+- AR2 - 2_frame_1021.jpg
+- AR2 - 2_frame_1022.jpg
+- AR2 - 2_frame_1023.jpg
+- AR2 - 2_frame_1024.jpg
+- AR2 - 2_frame_1025.jpg
+- AR2 - 2_frame_1026.jpg
+- AR2 - 2_frame_1027.jpg
+- AR2 - 2_frame_1028.jpg
+- AR2 - 2_frame_1029.jpg
+- AR2 - 2_frame_1030.jpg
+- AR2 - 2_frame_1031.jpg
+- AR2 - 2_frame_1032.jpg
+- AR2 - 2_frame_1033.jpg
+- AR2 - 2_frame_1034.jpg
+- AR2 - 2_frame_1035.jpg
+- AR2 - 2_frame_1036.jpg
+- AR2 - 2_frame_1037.jpg
+- AR2 - 2_frame_1038.jpg
+- AR2 - 2_frame_1039.jpg
+- AR2 - 2_frame_1040.jpg
+- AR2 - 2_frame_1041.jpg
+- AR2 - 2_frame_1042.jpg
+- AR2 - 2_frame_1043.jpg
+- AR2 - 2_frame_1044.jpg
+- AR2 - 2_frame_1045.jpg
+- AR2 - 2_frame_1046.jpg
+- AR2 - 2_frame_1047.jpg
+- AR2 - 2_frame_1048.jpg
+- AR2 - 2_frame_1049.jpg
+- AR2 - 2_frame_1050.jpg
+- AR2 - 2_frame_1051.jpg
+- AR2 - 2_frame_1052.jpg
+- AR2 - 2_frame_1053.jpg
+- AR2 - 2_frame_1054.jpg
+- AR2 - 2_frame_1055.jpg
+- AR2 - 2_frame_1056.jpg
+- AR2 - 2_frame_1057.jpg
+- AR2 - 2_frame_1058.jpg
+- AR2 - 2_frame_1059.jpg
+- AR2 - 2_frame_1060.jpg
+- AR2 - 2_frame_1061.jpg
+- AR2 - 2_frame_1062.jpg
+- AR2 - 2_frame_1063.jpg
+- AR2 - 2_frame_1064.jpg
+- AR2 - 2_frame_1065.jpg
+- AR2 - 2_frame_1066.jpg
+- AR2 - 2_frame_1067.jpg
+- AR2 - 2_frame_1068.jpg
+- AR2 - 2_frame_1069.jpg
+- AR2 - 2_frame_1070.jpg
+- AR2 - 2_frame_1071.jpg
+- AR2 - 2_frame_1072.jpg
+- AR2 - 2_frame_1073.jpg
+- AR2 - 2_frame_1074.jpg
+- AR2 - 2_frame_1075.jpg
+- AR2 - 2_frame_1076.jpg
+- AR2 - 2_frame_1077.jpg
+- AR2 - 2_frame_1078.jpg
+- AR2 - 2_frame_1079.jpg
+- AR2 - 2_frame_1080.jpg
+- AR2 - 2_frame_1081.jpg
+- AR2 - 2_frame_1082.jpg
+- AR2 - 2_frame_1083.jpg
+- AR2 - 2_frame_1084.jpg
+- AR2 - 2_frame_1085.jpg
+- AR2 - 2_frame_1086.jpg
+- AR2 - 2_frame_1087.jpg
+- AR2 - 2_frame_1088.jpg
+- AR2 - 2_frame_1089.jpg
+- AR2 - 2_frame_1090.jpg
+- AR2 - 2_frame_1091.jpg
+- AR2 - 2_frame_1092.jpg
+- AR2 - 2_frame_1093.jpg
+- AR2 - 2_frame_1094.jpg
+- AR2 - 2_frame_1095.jpg
+- AR2 - 2_frame_1096.jpg
+- AR2 - 2_frame_1097.jpg
+- AR2 - 2_frame_1098.jpg
+- AR2 - 2_frame_1099.jpg
+- AR2 - 2_frame_1100.jpg
+- AR2 - 2_frame_1101.jpg
+- AR2 - 2_frame_1102.jpg
+- AR2 - 2_frame_1103.jpg
+- AR2 - 2_frame_1104.jpg
+- AR2 - 2_frame_1105.jpg
+- AR2 - 2_frame_1106.jpg
+- AR2 - 2_frame_1107.jpg
+- AR2 - 2_frame_1108.jpg
+- AR2 - 2_frame_1109.jpg
+- AR2 - 2_frame_1110.jpg
+- AR2 - 2_frame_1111.jpg
+- AR2 - 2_frame_1112.jpg
+- AR2 - 2_frame_1113.jpg
+- AR2 - 2_frame_1114.jpg
+- AR2 - 2_frame_1115.jpg
+- AR2 - 2_frame_1116.jpg
+- AR2 - 2_frame_1117.jpg
+- AR2 - 2_frame_1118.jpg
+- AR2 - 2_frame_1119.jpg
+- AR2 - 2_frame_1120.jpg
+- AR2 - 2_frame_1121.jpg
+- AR2 - 2_frame_1122.jpg
+- AR2 - 2_frame_1123.jpg
+- AR2 - 2_frame_1124.jpg
+- AR2 - 2_frame_599.jpg
+- AR2 - 2_frame_600.jpg
+- AR2 - 2_frame_601.jpg
+- AR2 - 2_frame_602.jpg
+- AR2 - 2_frame_603.jpg
+- AR2 - 2_frame_604.jpg
+- AR2 - 2_frame_605.jpg
+- AR2 - 2_frame_606.jpg
+- AR2 - 2_frame_607.jpg
+- AR2 - 2_frame_608.jpg
+- AR2 - 2_frame_609.jpg
+- AR2 - 2_frame_610.jpg
+- AR2 - 2_frame_611.jpg
+- AR2 - 2_frame_612.jpg
+- AR2 - 2_frame_613.jpg
+- AR2 - 2_frame_614.jpg
+- AR2 - 2_frame_615.jpg
+- AR2 - 2_frame_616.jpg
+- AR2 - 2_frame_617.jpg
+- AR2 - 2_frame_618.jpg
+- AR2 - 2_frame_619.jpg
+- AR2 - 2_frame_620.jpg
+- AR2 - 2_frame_621.jpg
+- AR2 - 2_frame_622.jpg
+- AR2 - 2_frame_623.jpg
+- AR2 - 2_frame_624.jpg
+- AR2 - 2_frame_625.jpg
+- AR2 - 2_frame_626.jpg
+- AR2 - 2_frame_627.jpg
+- AR2 - 2_frame_628.jpg
+- AR2 - 2_frame_629.jpg
+- AR2 - 2_frame_630.jpg
+- AR2 - 2_frame_631.jpg
+- AR2 - 2_frame_632.jpg
+- AR2 - 2_frame_633.jpg
+- AR2 - 2_frame_634.jpg
+- AR2 - 2_frame_635.jpg
+- AR2 - 2_frame_636.jpg
+- AR2 - 2_frame_637.jpg
+- AR2 - 2_frame_638.jpg
+- AR2 - 2_frame_894.jpg
+- AR2 - 2_frame_895.jpg
+- AR2 - 2_frame_896.jpg
+- AR2 - 2_frame_897.jpg
+- AR2 - 2_frame_898.jpg
+- AR2 - 2_frame_899.jpg
+- AR2 - 2_frame_900.jpg
+- AR2 - 2_frame_901.jpg
+- AR2 - 2_frame_902.jpg
+- AR2 - 2_frame_903.jpg
+- AR2 - 2_frame_904.jpg
+- AR2 - 2_frame_905.jpg
+- AR2 - 2_frame_906.jpg
+- AR2 - 2_frame_907.jpg
+- AR2 - 2_frame_908.jpg
+- AR2 - 2_frame_909.jpg
+- AR2 - 2_frame_910.jpg
+- CB111-P2_AR2_frame_823.jpg
+- CB111-P2_AR2_frame_824.jpg
+- CB111-P2_AR2_frame_825.jpg
+- CB111-P2_AR2_frame_826.jpg
+- CB111-P2_AR2_frame_827.jpg
+- CB111-P2_AR2_frame_828.jpg
+- CB111-P2_AR2_frame_829.jpg
+- CB111-P2_AR2_frame_830.jpg
+- CB111-P2_AR2_frame_831.jpg
+- CB111-P2_AR2_frame_832.jpg
+- CB111-P2_AR2_frame_833.jpg
+- CB111-P2_AR2_frame_834.jpg
+- CB111-P2_AR2_frame_835.jpg
+- CB111-P2_AR2_frame_836.jpg
+- CB111-P2_AR2_frame_837.jpg
+- CB111-P2_AR2_frame_838.jpg
+- CB111-P2_AR2_frame_839.jpg
+- CB111-P2_AR2_frame_840.jpg
+- CB111-P2_AR2_frame_841.jpg
+- CB111-P2_AR2_frame_842.jpg
+- CB111-P2_AR2_frame_843.jpg
+- CB111-P2_AR2_frame_844.jpg
+- CB111-P2_AR2_frame_845.jpg
+- CB111-P2_AR2_frame_846.jpg
+- CB111-P2_AR2_frame_847.jpg
+- CB111-P2_AR2_frame_848.jpg
+- CB111-P2_AR2_frame_849.jpg
+- CB111-P2_AR2_frame_850.jpg
+- CB111-P2_AR2_frame_851.jpg
+- CB111-P2_AR2_frame_852.jpg
+- CB111-P2_AR2_frame_853.jpg
+- CB111-P2_AR2_frame_854.jpg
+- CB111-P2_AR2_frame_855.jpg
+- CB111-P2_AR2_frame_856.jpg
+- CB111-P2_AR2_frame_857.jpg
+- CB111-P2_AR2_frame_858.jpg
+- CB111-P2_AR2_frame_859.jpg
+- CB111-P2_AR2_frame_860.jpg
+- CB111-P2_AR2_frame_861.jpg
+- CB111-P2_AR2_frame_862.jpg
+- CB111-P2_AR2_frame_863.jpg
+- CB111-P2_AR2_frame_864.jpg
+- CB111-P2_AR2_frame_865.jpg
+- CB111-P2_AR2_frame_866.jpg
+- CB111-P2_AR2_frame_867.jpg
+- CB111-P2_AR2_frame_868.jpg
+- CB111-P2_AR2_frame_869.jpg
+- CB111-P2_AR2_frame_870.jpg
+- CB111-P2_AR2_frame_871.jpg
+- CB111-P2_AR2_frame_872.jpg
+- CB111-P2_AR2_frame_873.jpg
+- CB111-P2_AR2_frame_874.jpg
+- CB111-P2_AR2_frame_875.jpg
+- CB111-P2_AR2_frame_876.jpg
+- CB111-P2_AR2_frame_877.jpg
+- CB111-P2_AR2_frame_878.jpg
+- CB111-P2_AR2_frame_879.jpg
+- CB111-P2_AR2_frame_880.jpg
+- CB111-P2_AR2_frame_881.jpg
+- CB111-P2_AR2_frame_882.jpg
+- CB111-P2_AR2_frame_883.jpg
+- CB111-P2_AR2_frame_884.jpg
+- CB111-P2_AR2_frame_885.jpg
+- CB111-P2_AR2_frame_886.jpg
+- CB111-P2_AR2_frame_887.jpg
+- CB111-P2_AR2_frame_888.jpg
+- CB111-P2_AR2_frame_889.jpg
+- CB111-P2_AR2_frame_890.jpg
+- CB111-P2_AR2_frame_891.jpg
+- CB111-P2_AR2_frame_892.jpg
+- CB111-P2_AR2_frame_893.jpg
+- CB111-P2_AR2_frame_894.jpg
+- CB111-P2_AR2_frame_895.jpg
+- CB111-P2_AR2_frame_896.jpg
+- CB144-P2_AR2_frame_1000.jpg
+- CB144-P2_AR2_frame_1001.jpg
+- CB144-P2_AR2_frame_1002.jpg
+- CB144-P2_AR2_frame_1003.jpg
+- CB144-P2_AR2_frame_1004.jpg
+- CB144-P2_AR2_frame_1005.jpg
+- CB144-P2_AR2_frame_1006.jpg
+- CB144-P2_AR2_frame_1007.jpg
+- CB144-P2_AR2_frame_1008.jpg
+- CB144-P2_AR2_frame_1009.jpg
+- CB144-P2_AR2_frame_1010.jpg
+- CB144-P2_AR2_frame_1011.jpg
+- CB144-P2_AR2_frame_1012.jpg
+- CB144-P2_AR2_frame_1013.jpg
+- CB144-P2_AR2_frame_1014.jpg
+- CB144-P2_AR2_frame_1015.jpg
+- CB144-P2_AR2_frame_1016.jpg
+- CB144-P2_AR2_frame_1017.jpg
+- CB144-P2_AR2_frame_1018.jpg
+- CB144-P2_AR2_frame_1019.jpg
+- CB144-P2_AR2_frame_1020.jpg
+- CB144-P2_AR2_frame_1021.jpg
+- CB144-P2_AR2_frame_1022.jpg
+- CB144-P2_AR2_frame_1023.jpg
+- CB144-P2_AR2_frame_1024.jpg
+- CB144-P2_AR2_frame_1025.jpg
+- CB144-P2_AR2_frame_1026.jpg
+- CB144-P2_AR2_frame_1027.jpg
+- CB144-P2_AR2_frame_1028.jpg
+- CB144-P2_AR2_frame_1029.jpg
+- CB144-P2_AR2_frame_1030.jpg
+- CB144-P2_AR2_frame_1031.jpg
+- CB144-P2_AR2_frame_1032.jpg
+- CB144-P2_AR2_frame_1033.jpg
+- CB144-P2_AR2_frame_1034.jpg
+- CB144-P2_AR2_frame_1035.jpg
+- CB144-P2_AR2_frame_1036.jpg
+- CB144-P2_AR2_frame_1037.jpg
+- CB144-P2_AR2_frame_1038.jpg
+- CB144-P2_AR2_frame_1039.jpg
+- CB144-P2_AR2_frame_1040.jpg
+- CB144-P2_AR2_frame_11.jpg
+- CB144-P2_AR2_frame_12.jpg
+train_img:
+- 002631c6-AR2_-_1_frame_1315.jpg
+- 00b49b2d-CP001-P032-1BC-P2_video_4_frame_2473.jpg
+- 00eebbd9-CB096-P2_AR2_1_frame_505.jpg
+- 01456270-CP001-P032-1BC-P2_video_4_frame_1188.jpg
+- 02027e8c-AR2_-_1_frame_2457.jpg
+- 044eee2e-AR2_-_1_frame_3044.jpg
+- 047346c0-CP001-P039-1BC-P2_video_2_frame_610.jpg
+- 04d6f77a-CP001-P028-1BC-P2_video_4_frame_1339.jpg
+- 05c4c5d8-AR2_-_1_frame_1243.jpg
+- 073a8ab7-CB111-P2_AR2_frame_597.jpg
+- 073c1034-CP001-P039-1BC-P2_video_2_frame_737.jpg
+- 097559b4-CB111-P2_AR2_frame_418.jpg
+- 0ac5bdf0-AR2_-_1_frame_2572.jpg
+- 0aee72ca-AR2_-_1_frame_3039.jpg
+- 0beb421e-CB111-P2_AR2_frame_298.jpg
+- 0c32ad77-CP001-P038-1BC-P2_video_2_frame_366.jpg
+- 0d3a9223-AR2_-_1_frame_1764.jpg
+- 0d5b63ee-CP001-P028-1BC-P2_video_4_frame_1658.jpg
+- 0d6ddab9-AR2_-_1_frame_1813.jpg
+- 0d9a4f1e-AR2_-_1_frame_2106.jpg
+- 0e5ffc5d-CP001-P028-1BC-P2_video_4_frame_1437.jpg
+- 0f44998b-CP001-P032-1BC-P2_video_4_frame_2739.jpg
+- 0f6e0636-CP001-P032-1BC-P2_video_4_frame_3141.jpg
+- 0fae5d94-CB111-P2_AR2_frame_613.jpg
+- 1014ccfd-CP001-P038-1BC-P2_video_2_frame_1093.jpg
+- 1065490c-AR2_-_1_frame_2105.jpg
+- 108c2ef3-AR2_-_1_frame_1804.jpg
+- 109a376c-AR2_-_1_frame_1769.jpg
+- 10bf9a12-CP001-P028-1BC-P2_video_4_frame_1180.jpg
+- 11779a2f-CB096-P2_AR2_2_frame_453.jpg
+- 11df6141-AR2_-_1_frame_1893.jpg
+- 1316d5e5-CP001-P039-1BC-P2_video_2_frame_296.jpg
+- 138c1ff9-CP001-P032-1BC-P2_video_4_frame_3088.jpg
+- 13cc289a-CP001-P032-1BC-P2_video_4_frame_1892.jpg
+- 13ef94e9-AR2_-_1_frame_1322.jpg
+- 141123b7-AR2_-_1_frame_1706.jpg
+- 141132fd-CB096-P2_AR2_1_frame_344.jpg
+- 148e0fe7-AR2_-_1_frame_1814.jpg
+- 14ba8777-CP001-P038-1BC-P2_video_2_frame_1820.jpg
+- 14e3c411-CB144-P2_AR2_frame_1135.jpg
+- 154102dc-CP001-P028-1BC-P2_video_4_frame_1050.jpg
+- 16f9b762-CB111-P2_AR2_frame_1588.jpg
+- 180b5e0a-AR2_-_1_frame_1708.jpg
+- 1820e725-CB144-P2_AR2_frame_1128.jpg
+- 194c213a-CP001-P032-1BC-P2_video_4_frame_748.jpg
+- 19a48ed9-AR2_-_1_frame_1225.jpg
+- 19e25218-CP001-P028-1BC-P2_video_4_frame_963.jpg
+- 1a68c622-CP001-P028-1BC-P2_video_4_frame_1121.jpg
+- 1a8ba06c-AR2_-_1_frame_1149.jpg
+- 1b0652a6-AR2_-_1_frame_1308.jpg
+- 1b122ecd-CB111-P2_AR2_frame_1332.jpg
+- 1b18bea6-AR2_-_1_frame_3038.jpg
+- 1b89ce35-AR2_-_1_frame_1321.jpg
+- 1cf903e9-CP001-P032-1BC-P2_video_4_frame_2302.jpg
+- 1dd0008d-CP001-P038-1BC-P2_video_2_frame_1094.jpg
+- 1dd3d9dd-CB096-P2_AR2_1_frame_529.jpg
+- 1e6d9fac-CB111-P2_AR2_frame_1572.jpg
+- 1eee7743-CP001-P038-1BC-P2_video_2_frame_1163.jpg
+- 204f62b6-AR2_-_1_frame_2747.jpg
+- 20c3c571-CB096-P2_AR2_1_frame_818.jpg
+- 220246c6-CP001-P039-1BC-P2_video_3_frame_1078.jpg
+- 224e7eb4-CB096-P2_AR2_1_frame_903.jpg
+- 22a11198-CB144-P2_AR2_frame_2448.jpg
+- 22c4f1d7-CP001-P039-1BC-P2_video_2_frame_230.jpg
+- 230f19cc-CB111-P2_AR2_frame_1094.jpg
+- 2398b263-CB096-P2_AR2_2_frame_438.jpg
+- 244069ea-AR2_-_1_frame_1319.jpg
+- 253cd7b6-AR2_-_1_frame_1998.jpg
+- 25bb2d16-CP001-P032-1BC-P2_video_4_frame_1629.jpg
+- 2635df9b-AR2_-_1_frame_1611.jpg
+- 27a80e09-CB096-P2_AR2_1_frame_808.jpg
+- 285d83b1-CB096-P2_AR2_1_frame_971.jpg
+- 28fa72c1-CP001-P039-1BC-P2_video_3_frame_1048.jpg
+- 2a3cacbd-CP001-P028-1BC-P2_video_4_frame_457.jpg
+- 2a506abe-CB144-P2_AR2_frame_194.jpg
+- 2a5e0f9a-AR2_-_1_frame_1809.jpg
+- 2ade32df-CP001-P039-1BC-P2_video_2_frame_498.jpg
+- 2b0ada8b-AR2_-_1_frame_2937.jpg
+- 2bb21347-CB144-P2_AR2_frame_458.jpg
+- 2daed09b-AR2_-_1_frame_1229.jpg
+- 2dffb0b7-CP001-P039-1BC-P2_video_2_frame_497.jpg
+- 2e1d355f-AR2_-_1_frame_1318.jpg
+- 2e3d7cd4-AR2_-_1_frame_1763.jpg
+- 2e6cebe1-CB111-P2_AR2_frame_717.jpg
+- 2f1b7089-AR2_-_1_frame_1811.jpg
+- 2f762778-AR2_-_1_frame_1221.jpg
+- 2f79f03c-AR2_-_1_frame_1396.jpg
+- 2fad49d6-CP001-P028-1BC-P2_video_4_frame_659.jpg
+- 309a56d7-CP001-P032-1BC-P2_video_4_frame_3066.jpg
+- 30e313e2-AR2_-_1_frame_1607.jpg
+- 313c5f67-AR2_-_1_frame_1704.jpg
+- 31f380ff-CB111-P2_AR2_frame_1062.jpg
+- 32636f34-AR2_-_1_frame_3046.jpg
+- 32c1c480-AR2_-_1_frame_1320.jpg
+- 335ca0de-CP001-P039-1BC-P2_video_2_frame_455.jpg
+- 335e3441-AR2_-_1_frame_1397.jpg
+- 33bae425-AR2_-_1_frame_1137.jpg
+- 344f9340-AR2_-_1_frame_1228.jpg
+- 345e3a98-AR2_-_1_frame_1610.jpg
+- 347dff49-AR2_-_1_frame_3234.jpg
+- 348d6b3a-AR2_-_1_frame_2558.jpg
+- 3572282a-AR2_-_1_frame_1958.jpg
+- 35973527-CP001-P038-1BC-P2_video_2_frame_677.jpg
+- 35d21b5a-CP001-P039-1BC-P2_video_3_frame_627.jpg
+- 3603a51e-AR2_-_1_frame_2112.jpg
+- 36e3393c-AR2_-_1_frame_3233.jpg
+- 371f0c38-CP001-P039-1BC-P2_video_3_frame_946.jpg
+- 37efc885-AR2_-_1_frame_3236.jpg
+- 38783f33-AR2_-_1_frame_1668.jpg
+- 3a7df311-CP001-P028-1BC-P2_video_4_frame_637.jpg
+- 3b87b461-CP001-P032-1BC-P2_video_4_frame_2718.jpg
+- 3c50a9ca-CP001-P038-1BC-P2_video_2_frame_230.jpg
+- 3d8d3ac1-CP001-P039-1BC-P2_video_2_frame_722.jpg
+- 3e718c74-CB096-P2_AR2_1_frame_723.jpg
+- 3ed89211-CP001-P032-1BC-P2_video_4_frame_894.jpg
+- 3f3d13d6-AR2_-_1_frame_1956.jpg
+- 3fbf9f7a-CB111-P2_AR2_frame_1299.jpg
+- 40364584-CP001-P032-1BC-P2_video_4_frame_2531.jpg
+- 4052a2ad-CP001-P028-1BC-P2_video_4_frame_1695.jpg
+- 425e772a-CP001-P028-1BC-P2_video_4_frame_927.jpg
+- 4283174e-CP001-P028-1BC-P2_video_4_frame_1009.jpg
+- 429b9928-CP001-P032-1BC-P2_video_4_frame_1814.jpg
+- 431fa6ec-CP001-P032-1BC-P2_video_4_frame_3125.jpg
+- 44c40399-AR2_-_1_frame_1284.jpg
+- 44fbb5b0-CP001-P032-1BC-P2_video_4_frame_2844.jpg
+- 45b4690d-CB096-P2_AR2_2_frame_350.jpg
+- 45fecc07-AR2_-_1_frame_1955.jpg
+- 46dccdd1-CB096-P2_AR2_1_frame_888.jpg
+- 471999ec-CP001-P032-1BC-P2_video_4_frame_1876.jpg
+- 478cd01b-CP001-P038-1BC-P2_video_2_frame_1697.jpg
+- 4816bac6-CB096-P2_AR2_2_frame_232.jpg
+- 4822fab0-CB144-P2_AR2_frame_428.jpg
+- 4a4e089a-AR2_-_1_frame_1141.jpg
+- 4a7886db-CP001-P039-1BC-P2_video_3_frame_898.jpg
+- 4aedc1d9-CP001-P038-1BC-P2_video_2_frame_681.jpg
+- 4b257ab3-AR2_-_1_frame_1634.jpg
+- 4bb5a815-AR2_-_1_frame_1399.jpg
+- 4bff3614-AR2_-_1_frame_1129.jpg
+- 4bff7233-CB096-P2_AR2_1_frame_378.jpg
+- 4c1e5b51-AR2_-_1_frame_3048.jpg
+- 4c569fff-CB144-P2_AR2_frame_488.jpg
+- 4c9f01a5-CP001-P039-1BC-P2_video_2_frame_969.jpg
+- 4d3f5d6a-CP001-P028-1BC-P2_video_4_frame_378.jpg
+- 4dbc7c3d-CP001-P032-1BC-P2_video_4_frame_2339.jpg
+- 4e179ac3-AR2_-_1_frame_1897.jpg
+- 4f5e55c9-CP001-P038-1BC-P2_video_2_frame_553.jpg
+- 4f83df00-CP001-P028-1BC-P2_video_4_frame_711.jpg
+- 4f8e98c0-AR2_-_1_frame_2658.jpg
+- 4fe5837a-CP001-P032-1BC-P2_video_4_frame_947.jpg
+- 50020bd7-CB111-P2_AR2_frame_308.jpg
+- 5027e67e-CP001-P032-1BC-P2_video_4_frame_665.jpg
+- 509ac1fe-AR2_-_1_frame_3235.jpg
+- 50a064b3-AR2_-_1_frame_2943.jpg
+- 50fe4206-CB096-P2_AR2_1_frame_557.jpg
+- 519997c6-AR2_-_1_frame_3482.jpg
+- 529b01cf-AR2_-_1_frame_1767.jpg
+- 52e65d6d-CP001-P028-1BC-P2_video_4_frame_182.jpg
+- 54794ab6-AR2_-_1_frame_3498.jpg
+- 5481fe3f-CB111-P2_AR2_frame_268.jpg
+- 54e4bf21-CP001-P032-1BC-P2_video_4_frame_1819.jpg
+- 55682c24-CP001-P032-1BC-P2_video_4_frame_821.jpg
+- 55a50bcc-CP001-P032-1BC-P2_video_4_frame_2838.jpg
+- 55b94eba-CP001-P032-1BC-P2_video_4_frame_3136.jpg
+- 563e86f0-CP001-P039-1BC-P2_video_2_frame_195.jpg
+- 56b5d1c5-CB096-P2_AR2_1_frame_748.jpg
+- 56fee18a-CP001-P032-1BC-P2_video_4_frame_722.jpg
+- 573174ce-CP001-P032-1BC-P2_video_4_frame_832.jpg
+- 592e3ecf-AR2_-_1_frame_1311.jpg
+- 598b3cc2-CP001-P038-1BC-P2_video_2_frame_1222.jpg
+- 5a6f1911-AR2_-_1_frame_1608.jpg
+- 5b74d6be-AR2_-_1_frame_1408.jpg
+- 5ba7beda-CP001-P039-1BC-P2_video_2_frame_387.jpg
+- 5c010896-CP001-P032-1BC-P2_video_4_frame_3093.jpg
+- 5c45805e-CB111-P2_AR2_frame_463.jpg
+- 5c668304-AR2_-_1_frame_3466.jpg
+- 5cbe9170-CP001-P028-1BC-P2_video_4_frame_405.jpg
+- 5d0891f4-AR2_-_1_frame_3042.jpg
+- 5d33c831-CP001-P028-1BC-P2_video_4_frame_1779.jpg
+- 5d78b5e9-CP001-P038-1BC-P2_video_2_frame_373.jpg
+- 5f75471e-CP001-P039-1BC-P2_video_2_frame_375.jpg
+- 5f8f5c8c-CB111-P2_AR2_frame_688.jpg
+- 600d1ce1-CB144-P2_AR2_frame_1413.jpg
+- 604ec13b-AR2_-_1_frame_3041.jpg
+- 612515f8-CP001-P028-1BC-P2_video_4_frame_695.jpg
+- 627f0ff3-CB111-P2_AR2_frame_543.jpg
+- 62a473a7-CP001-P028-1BC-P2_video_4_frame_309.jpg
+- 6348a613-AR2_-_1_frame_2657.jpg
+- 63ba77fc-CP001-P038-1BC-P2_video_2_frame_183.jpg
+- 63e02952-CB096-P2_AR2_1_frame_948.jpg
+- 6404633a-AR2_-_1_frame_3229.jpg
+- 64f12ccf-CP001-P032-1BC-P2_video_4_frame_760.jpg
+- 65632313-CB111-P2_AR2_frame_378.jpg
+- 65e8273d-CB096-P2_AR2_2_frame_398.jpg
+- 66321b98-AR2_-_1_frame_1404.jpg
+- 669dffc4-AR2_-_1_frame_1394.jpg
+- 672abdf8-CB111-P2_AR2_frame_399.jpg
+- 68d95907-AR2_-_1_frame_1240.jpg
+- 695a503e-CP001-P032-1BC-P2_video_4_frame_633.jpg
+- 696161ae-AR2_-_1_frame_2964.jpg
+- 6987c2ba-CP001-P032-1BC-P2_video_4_frame_1540.jpg
+- 6a6b8ce3-CP001-P039-1BC-P2_video_2_frame_738.jpg
+- 6b2963dd-CP001-P032-1BC-P2_video_4_frame_1661.jpg
+- 6c392f5f-AR2_-_1_frame_1895.jpg
+- 6c44ebcb-AR2_-_1_frame_3043.jpg
+- 6c4665a9-AR2_-_1_frame_2936.jpg
+- 6d2683f3-CB096-P2_AR2_1_frame_279.jpg
+- 6d6d6a8c-CP001-P039-1BC-P2_video_3_frame_947.jpg
+- 6db03f3c-CP001-P032-1BC-P2_video_4_frame_1063.jpg
+- 6e6090c5-AR2_-_1_frame_1194.jpg
+- 6ebe6012-AR2_-_1_frame_1612.jpg
+- 6ef05ebe-AR2_-_1_frame_1807.jpg
+- 7057c2f7-AR2_-_1_frame_1765.jpg
+- 70c9a094-CP001-P039-1BC-P2_video_2_frame_232.jpg
+- 70f06c77-CB111-P2_AR2_frame_1143.jpg
+- 7134e33f-CP001-P032-1BC-P2_video_4_frame_1624.jpg
+- 7195f7e9-CP001-P039-1BC-P2_video_2_frame_357.jpg
+- 71e6264b-CB111-P2_AR2_frame_993.jpg
+- 7212ffad-AR2_-_1_frame_2524.jpg
+- 7225148c-CB096-P2_AR2_2_frame_254.jpg
+- 723296b7-CB096-P2_AR2_1_frame_209.jpg
+- 72a0b22a-CP001-P039-1BC-P2_video_3_frame_842.jpg
+- 731fc0d7-AR2_-_1_frame_1896.jpg
+- 7329530c-CB096-P2_AR2_1_frame_548.jpg
+- 73f38a9f-AR2_-_1_frame_1710.jpg
+- 74226044-AR2_-_1_frame_1413.jpg
+- 7424d9e4-AR2_-_1_frame_1709.jpg
+- 744d05f7-CP001-P038-1BC-P2_video_2_frame_1365.jpg
+- 74ce7358-AR2_-_1_frame_1223.jpg
+- 75ea10e1-AR2_-_1_frame_2938.jpg
+- 76300f94-CP001-P028-1BC-P2_video_4_frame_386.jpg
+- 764e6555-CB096-P2_AR2_1_frame_189.jpg
+- 76da5f86-CB144-P2_AR2_frame_1253.jpg
+- 76e60919-AR2_-_1_frame_1220.jpg
+- 776e2ac4-CP001-P032-1BC-P2_video_4_frame_1753.jpg
+- 77af8985-AR2_-_1_frame_1957.jpg
+- 7819daef-AR2_-_1_frame_3037.jpg
+- 788d7633-CP001-P032-1BC-P2_video_4_frame_1666.jpg
+- 78a832d2-CP001-P028-1BC-P2_video_4_frame_1237.jpg
+- 78f1ba74-AR2_-_1_frame_1323.jpg
+- 794ec221-AR2_-_1_frame_2462.jpg
+- 79a65293-CP001-P028-1BC-P2_video_4_frame_1752.jpg
+- 7acc14a8-AR2_-_1_frame_1402.jpg
+- 7b1d1707-CB096-P2_AR2_2_frame_210.jpg
+- 7b76cc66-CP001-P039-1BC-P2_video_2_frame_166.jpg
+- 7bec5313-AR2_-_1_frame_1406.jpg
+- 7c204a02-AR2_-_1_frame_1395.jpg
+- 7c40dbe5-CB096-P2_AR2_1_frame_415.jpg
+- 7c980d79-AR2_-_1_frame_1283.jpg
+- 7cf003c4-AR2_-_1_frame_1959.jpg
+- 7d805677-CB144-P2_AR2_frame_189.jpg
+- 7dc8c2e1-CB111-P2_AR2_frame_1199.jpg
+- 7e7517d2-AR2_-_1_frame_1805.jpg
+- 7eced0f7-CP001-P039-1BC-P2_video_2_frame_939.jpg
+- 7ef59ed5-AR2_-_1_frame_1665.jpg
+- 7f2a5058-AR2_-_1_frame_2939.jpg
+- 7f3392d4-AR2_-_1_frame_1316.jpg
+- 7f93da35-CP001-P039-1BC-P2_video_2_frame_160.jpg
+- 7fb6649a-CB111-P2_AR2_frame_1202.jpg
+- 8059970f-AR2_-_1_frame_3230.jpg
+- 814c040d-CB144-P2_AR2_frame_1209.jpg
+- 8154a8ff-AR2_-_1_frame_2941.jpg
+- 822537d9-CP001-P028-1BC-P2_video_4_frame_186.jpg
+- 826eafd9-CP001-P028-1BC-P2_video_4_frame_1674.jpg
+- 82b650e3-AR2_-_1_frame_1892.jpg
+- 837dc27f-CP001-P028-1BC-P2_video_4_frame_282.jpg
+- 8397feba-AR2_-_1_frame_1961.jpg
+- 83b28344-AR2_-_1_frame_2108.jpg
+- 84cee39c-AR2_-_1_frame_1818.jpg
+- 84fadf5b-CB111-P2_AR2_frame_1331.jpg
+- 850954a0-AR2_-_1_frame_1145.jpg
+- 85198588-CB111-P2_AR2_frame_546.jpg
+- 854bb690-CP001-P038-1BC-P2_video_2_frame_693.jpg
+- 872a8707-CP001-P038-1BC-P2_video_2_frame_1430.jpg
+- 880e7b97-CP001-P032-1BC-P2_video_4_frame_3131.jpg
+- 88929d63-CP001-P032-1BC-P2_video_4_frame_2468.jpg
+- 892f9627-AR2_-_1_frame_1412.jpg
+- 89513d0c-CP001-P032-1BC-P2_video_4_frame_1608.jpg
+- 898848e5-CP001-P038-1BC-P2_video_2_frame_1745.jpg
+- 899af853-CP001-P038-1BC-P2_video_2_frame_395.jpg
+- 89ac11ce-CP001-P032-1BC-P2_video_4_frame_1783.jpg
+- 89ee30f2-AR2_-_1_frame_1806.jpg
+- 8a544b0c-AR2_-_1_frame_1407.jpg
+- 8a73d2d2-AR2_-_1_frame_2555.jpg
+- 8ad281c2-CB111-P2_AR2_frame_1214.jpg
+- 8b112d8e-CP001-P028-1BC-P2_video_4_frame_1116.jpg
+- 8c03cc64-CP001-P028-1BC-P2_video_4_frame_1242.jpg
+- 8c9993cf-AR2_-_1_frame_1609.jpg
+- 8c9a90aa-CP001-P032-1BC-P2_video_4_frame_943.jpg
+- 8e0c03c8-CB096-P2_AR2_1_frame_250.jpg
+- 8e1539ba-CP001-P039-1BC-P2_video_3_frame_1150.jpg
+- 8e7447ba-CB111-P2_AR2_frame_1323.jpg
+- 8fb5c3ec-AR2_-_1_frame_1224.jpg
+- 8ff52364-CP001-P039-1BC-P2_video_2_frame_490.jpg
+- 9026112f-CP001-P032-1BC-P2_video_4_frame_2744.jpg
+- 903c2666-CP001-P028-1BC-P2_video_4_frame_310.jpg
+- 90c71855-CP001-P028-1BC-P2_video_4_frame_575.jpg
+- 91d15ccb-CP001-P039-1BC-P2_video_2_frame_699.jpg
+- 931a8c78-AR2_-_1_frame_1667.jpg
+- 93376edb-CP001-P028-1BC-P2_video_4_frame_304.jpg
+- 9346f5d7-CB111-P2_AR2_frame_1145.jpg
+- 93a16f30-CP001-P032-1BC-P2_video_4_frame_2536.jpg
+- 9454114d-CP001-P038-1BC-P2_video_2_frame_267.jpg
+- 9562e9d0-AR2_-_1_frame_1222.jpg
+- 95756920-AR2_-_1_frame_1317.jpg
+- 95f88873-CB111-P2_AR2_frame_243.jpg
+- 96183517-AR2_-_1_frame_1401.jpg
+- 974169bb-CP001-P032-1BC-P2_video_4_frame_883.jpg
+- 97556d7c-CB096-P2_AR2_1_frame_880.jpg
+- 976a4934-AR2_-_1_frame_2556.jpg
+- 97a85890-CB144-P2_AR2_frame_2463.jpg
+- 97fe8eb4-AR2_-_1_frame_1409.jpg
+- 9879bb7c-CP001-P039-1BC-P2_video_2_frame_423.jpg
+- 99ce27eb-AR2_-_1_frame_1410.jpg
+- 9bb75544-CP001-P039-1BC-P2_video_3_frame_856.jpg
+- 9bc6a2fa-AR2_-_1_frame_3490.jpg
+- 9c6aeb40-AR2_-_1_frame_1227.jpg
+- 9cc2ef30-CB096-P2_AR2_1_frame_773.jpg
+- 9d2df13b-AR2_-_1_frame_1816.jpg
+- 9e4b1600-CP001-P032-1BC-P2_video_4_frame_2307.jpg
+- 9e763c1d-CP001-P028-1BC-P2_video_4_frame_436.jpg
+- 9e97d628-CP001-P039-1BC-P2_video_3_frame_1133.jpg
+- 9ebc9c8a-AR2_-_1_frame_1310.jpg
+- 9f590904-AR2_-_1_frame_1705.jpg
+- 9f8c26ce-CP001-P032-1BC-P2_video_4_frame_2436.jpg
+- 9fbeab95-CP001-P028-1BC-P2_video_4_frame_1149.jpg
+- a01f68eb-CP001-P038-1BC-P2_video_2_frame_359.jpg
+- a08bf6af-AR2_-_1_frame_2458.jpg
+- a128d878-CP001-P028-1BC-P2_video_4_frame_373.jpg
+- a128eaea-AR2_-_1_frame_2461.jpg
+- a15a5f1a-CB111-P2_AR2_frame_1018.jpg
+- a1d6ac3c-AR2_-_1_frame_2655.jpg
+- a2a7cf75-CP001-P039-1BC-P2_video_3_frame_823.jpg
+- a3011299-AR2_-_1_frame_2940.jpg
+- a301c012-CB111-P2_AR2_frame_1139.jpg
+- a3dcef9a-CB111-P2_AR2_frame_203.jpg
+- a53d6dd9-CB111-P2_AR2_frame_1263.jpg
+- a591a84a-AR2_-_1_frame_3231.jpg
+- a756ffe0-AR2_-_1_frame_1808.jpg
+- a855e290-AR2_-_1_frame_1226.jpg
+- a9bc5d38-CB144-P2_AR2_frame_1438.jpg
+- a9bcd0f5-CB144-P2_AR2_frame_1194.jpg
+- aa748cd6-CP001-P039-1BC-P2_video_3_frame_1020.jpg
+- aaae4250-AR2_-_1_frame_1133.jpg
+- abea0d16-CB096-P2_AR2_1_frame_728.jpg
+- ac43576f-AR2_-_1_frame_3232.jpg
+- ac70e156-CP001-P028-1BC-P2_video_4_frame_184.jpg
+- aceb5d1b-CP001-P039-1BC-P2_video_2_frame_183.jpg
+- ae464bb8-CP001-P038-1BC-P2_video_2_frame_203.jpg
+- af179395-CB144-P2_AR2_frame_2478.jpg
+- af77e055-AR2_-_1_frame_2751.jpg
+- b0341c7b-AR2_-_1_frame_1898.jpg
+- b04c8826-AR2_-_1_frame_2104.jpg
+- b06b67e1-CP001-P032-1BC-P2_video_4_frame_2490.jpg
+- b0ae9bb9-CP001-P028-1BC-P2_video_4_frame_606.jpg
+train_launcher: C:\ConceivableProjects\Rutine2\v0.0.4\Launchers\train.bat
+val_bg:
+- CB144-P2_AR2_frame_13.jpg
+- CB144-P2_AR2_frame_14.jpg
+- CB144-P2_AR2_frame_15.jpg
+- CB144-P2_AR2_frame_16.jpg
+- CB144-P2_AR2_frame_17.jpg
+- CB144-P2_AR2_frame_18.jpg
+- CB144-P2_AR2_frame_19.jpg
+- CB144-P2_AR2_frame_20.jpg
+- CB144-P2_AR2_frame_21.jpg
+- CB144-P2_AR2_frame_22.jpg
+- CB144-P2_AR2_frame_23.jpg
+- CB144-P2_AR2_frame_24.jpg
+- CB144-P2_AR2_frame_25.jpg
+- CB144-P2_AR2_frame_26.jpg
+- CB144-P2_AR2_frame_27.jpg
+- CB144-P2_AR2_frame_28.jpg
+- CB144-P2_AR2_frame_29.jpg
+- CB144-P2_AR2_frame_30.jpg
+- CB144-P2_AR2_frame_31.jpg
+- CB144-P2_AR2_frame_32.jpg
+- CB144-P2_AR2_frame_33.jpg
+- CB144-P2_AR2_frame_34.jpg
+- CB144-P2_AR2_frame_35.jpg
+- CB144-P2_AR2_frame_36.jpg
+- CB144-P2_AR2_frame_37.jpg
+- CB144-P2_AR2_frame_38.jpg
+- CB144-P2_AR2_frame_39.jpg
+- CB144-P2_AR2_frame_40.jpg
+- CB144-P2_AR2_frame_41.jpg
+- CB144-P2_AR2_frame_42.jpg
+- CB144-P2_AR2_frame_43.jpg
+- CB144-P2_AR2_frame_44.jpg
+- CB144-P2_AR2_frame_45.jpg
+- CB144-P2_AR2_frame_46.jpg
+- CB144-P2_AR2_frame_47.jpg
+- CB144-P2_AR2_frame_48.jpg
+- CB144-P2_AR2_frame_49.jpg
+- CB144-P2_AR2_frame_50.jpg
+- CB144-P2_AR2_frame_51.jpg
+- CB144-P2_AR2_frame_52.jpg
+- CB144-P2_AR2_frame_53.jpg
+- CB144-P2_AR2_frame_54.jpg
+- CB144-P2_AR2_frame_55.jpg
+- CB144-P2_AR2_frame_56.jpg
+- CB144-P2_AR2_frame_57.jpg
+- CB144-P2_AR2_frame_58.jpg
+- CB144-P2_AR2_frame_59.jpg
+- CB144-P2_AR2_frame_60.jpg
+- CB144-P2_AR2_frame_61.jpg
+- CB144-P2_AR2_frame_62.jpg
+- CB144-P2_AR2_frame_63.jpg
+- CB144-P2_AR2_frame_64.jpg
+- CB144-P2_AR2_frame_65.jpg
+- CB144-P2_AR2_frame_66.jpg
+- CB144-P2_AR2_frame_67.jpg
+- CB144-P2_AR2_frame_68.jpg
+- CB144-P2_AR2_frame_69.jpg
+- CB144-P2_AR2_frame_70.jpg
+- CB144-P2_AR2_frame_71.jpg
+- CB144-P2_AR2_frame_72.jpg
+- CB144-P2_AR2_frame_73.jpg
+- CB144-P2_AR2_frame_74.jpg
+- CB144-P2_AR2_frame_75.jpg
+- CB144-P2_AR2_frame_76.jpg
+- CB144-P2_AR2_frame_77.jpg
+- CB144-P2_AR2_frame_78.jpg
+- CB144-P2_AR2_frame_79.jpg
+- CB144-P2_AR2_frame_80.jpg
+- CB144-P2_AR2_frame_81.jpg
+- CB144-P2_AR2_frame_82.jpg
+- CB144-P2_AR2_frame_83.jpg
+- CB144-P2_AR2_frame_84.jpg
+- CB144-P2_AR2_frame_85.jpg
+- CB144-P2_AR2_frame_971.jpg
+- CB144-P2_AR2_frame_972.jpg
+- CB144-P2_AR2_frame_973.jpg
+- CB144-P2_AR2_frame_974.jpg
+- CB144-P2_AR2_frame_975.jpg
+- CB144-P2_AR2_frame_976.jpg
+- CB144-P2_AR2_frame_977.jpg
+- CB144-P2_AR2_frame_978.jpg
+- CB144-P2_AR2_frame_979.jpg
+- CB144-P2_AR2_frame_980.jpg
+- CB144-P2_AR2_frame_981.jpg
+- CB144-P2_AR2_frame_982.jpg
+- CB144-P2_AR2_frame_983.jpg
+- CB144-P2_AR2_frame_984.jpg
+- CB144-P2_AR2_frame_985.jpg
+- CB144-P2_AR2_frame_986.jpg
+- CB144-P2_AR2_frame_987.jpg
+- CB144-P2_AR2_frame_988.jpg
+- CB144-P2_AR2_frame_989.jpg
+- CB144-P2_AR2_frame_990.jpg
+- CB144-P2_AR2_frame_991.jpg
+- CB144-P2_AR2_frame_992.jpg
+- CB144-P2_AR2_frame_993.jpg
+- CB144-P2_AR2_frame_994.jpg
+- CB144-P2_AR2_frame_995.jpg
+- CB144-P2_AR2_frame_996.jpg
+- CB144-P2_AR2_frame_997.jpg
+- CB144-P2_AR2_frame_998.jpg
+- CB144-P2_AR2_frame_999.jpg
+val_data:
+  val_data_ordered: C:\ConceivableProjects\Rutine2\test\v1\test-001
+  val_val_dir: C:\ConceivableProjects\Rutine2\v0.0.4\Data\val_data
+  vdo_images: C:\ConceivableProjects\Rutine2\test\v1\test-001\images
+  vdo_labels: C:\ConceivableProjects\Rutine2\test\v1\test-001\labels
+  yaml_val_dir: C:\ConceivableProjects\Rutine2\v0.0.4\Config\val_data_location.yaml
+val_img:
+- b0b59cc8-CB111-P2_AR2_frame_493.jpg
+- b0c575cc-AR2_-_1_frame_1707.jpg
+- b101fd44-AR2_-_1_frame_1239.jpg
+- b17cd5d7-AR2_-_1_frame_1314.jpg
+- b2197108-AR2_-_1_frame_1666.jpg
+- b2798abb-AR2_-_1_frame_1230.jpg
+- b30f1170-AR2_-_1_frame_2460.jpg
+- b33bf0b1-AR2_-_1_frame_1313.jpg
+- b36d7451-AR2_-_1_frame_1635.jpg
+- b3965a74-CP001-P038-1BC-P2_video_2_frame_1234.jpg
+- b4a9dad8-CB111-P2_AR2_frame_1583.jpg
+- b589da44-CB144-P2_AR2_frame_1248.jpg
+- b5c805c9-AR2_-_1_frame_2575.jpg
+- b68937c5-CP001-P032-1BC-P2_video_4_frame_2781.jpg
+- b6dc89d3-CP001-P032-1BC-P2_video_4_frame_2286.jpg
+- b8bca2bb-AR2_-_1_frame_1812.jpg
+- b8ebe221-CB111-P2_AR2_frame_1578.jpg
+- b9fd2497-CP001-P039-1BC-P2_video_3_frame_945.jpg
+- bc36b87b-AR2_-_1_frame_2942.jpg
+- bc891d7e-CB096-P2_AR2_2_frame_353.jpg
+- be0a8837-CB144-P2_AR2_frame_258.jpg
+- be88dd5a-CB096-P2_AR2_1_frame_273.jpg
+- bf2a31e5-CP001-P038-1BC-P2_video_2_frame_623.jpg
+- c0746d61-CP001-P038-1BC-P2_video_2_frame_1444.jpg
+- c1418980-CP001-P032-1BC-P2_video_4_frame_2850.jpg
+- c2640df6-AR2_-_1_frame_1711.jpg
+- c266834d-CP001-P032-1BC-P2_video_4_frame_696.jpg
+- c2a5748e-CP001-P038-1BC-P2_video_2_frame_1809.jpg
+- c2e881ca-CB144-P2_AR2_frame_398.jpg
+- c3048a40-CB111-P2_AR2_frame_728.jpg
+- c3acc6d5-AR2_-_1_frame_1312.jpg
+- c3be0bb9-CB096-P2_AR2_2_frame_303.jpg
+- c3c4e15e-AR2_-_1_frame_3478.jpg
+- c3e51b70-CB096-P2_AR2_1_frame_789.jpg
+- c4f4fdc2-CP001-P039-1BC-P2_video_2_frame_297.jpg
+- c4fd6c72-AR2_-_1_frame_1150.jpg
+- c6a79e10-CP001-P032-1BC-P2_video_4_frame_3071.jpg
+- c7c63f86-AR2_-_1_frame_1613.jpg
+- c82f10e0-CB111-P2_AR2_frame_1138.jpg
+- c8687fd0-AR2_-_1_frame_1960.jpg
+- c8d5f344-AR2_-_1_frame_2111.jpg
+- c9546115-CP001-P039-1BC-P2_video_2_frame_295.jpg
+- ca70f6b1-CB096-P2_AR2_1_frame_419.jpg
+- cb2fd0a3-CP001-P032-1BC-P2_video_4_frame_1562.jpg
+- cb5da8e2-CP001-P032-1BC-P2_video_4_frame_2344.jpg
+- cb649b93-AR2_-_1_frame_3502.jpg
+- cb98c3ff-CB096-P2_AR2_1_frame_423.jpg
+- cc12115a-CB144-P2_AR2_frame_1318.jpg
+- cc13df30-CP001-P038-1BC-P2_video_2_frame_451.jpg
+- cc950bbc-CB111-P2_AR2_frame_1002.jpg
+- cd1796e7-AR2_-_1_frame_3228.jpg
+- cd696c5e-AR2_-_1_frame_2656.jpg
+- cdd00eff-CP001-P032-1BC-P2_video_4_frame_2312.jpg
+- ce777e91-CP001-P032-1BC-P2_video_4_frame_2441.jpg
+- ce965b23-AR2_-_1_frame_2523.jpg
+- cebff262-AR2_-_1_frame_1400.jpg
+- cecda7f8-AR2_-_1_frame_2495.jpg
+- cfd88f98-CP001-P039-1BC-P2_video_3_frame_817.jpg
+- d0622c7e-CP001-P032-1BC-P2_video_4_frame_1177.jpg
+- d0a3c32c-AR2_-_1_frame_1636.jpg
+- d105bfc8-CP001-P039-1BC-P2_video_2_frame_184.jpg
+- d1762a0c-CP001-P028-1BC-P2_video_4_frame_1784.jpg
+- d1c2cc87-AR2_-_1_frame_2113.jpg
+- d349d404-AR2_-_1_frame_2554.jpg
+- d3c8fcb2-AR2_-_1_frame_3470.jpg
+- d461353e-CB096-P2_AR2_2_frame_378.jpg
+- d4df282d-CP001-P032-1BC-P2_video_4_frame_1199.jpg
+- d56d99bc-CB111-P2_AR2_frame_179.jpg
+- d5be3114-CP001-P028-1BC-P2_video_4_frame_315.jpg
+- d5c097f4-AR2_-_1_frame_1810.jpg
+- d6228bfd-CP001-P028-1BC-P2_video_4_frame_1206.jpg
+- d63bbd5c-CB111-P2_AR2_frame_604.jpg
+- d65adc3b-AR2_-_1_frame_2553.jpg
+- d70e5a5e-CP001-P028-1BC-P2_video_4_frame_1133.jpg
+- d7347884-AR2_-_1_frame_1309.jpg
+- d99ae21e-AR2_-_1_frame_1398.jpg
+- d9db9580-AR2_-_1_frame_1768.jpg
+- da6aff38-CP001-P038-1BC-P2_video_2_frame_171.jpg
+- daacb9c8-AR2_-_1_frame_3040.jpg
+- daba6c51-CB111-P2_AR2_frame_1474.jpg
+- dbd1e572-CP001-P038-1BC-P2_video_2_frame_554.jpg
+- dc1511b0-AR2_-_1_frame_3045.jpg
+- dc4aeee3-CB144-P2_AR2_frame_1383.jpg
+- dc538c79-CP001-P032-1BC-P2_video_4_frame_1131.jpg
+- dc65ad83-AR2_-_1_frame_1817.jpg
+- dd521675-AR2_-_1_frame_1766.jpg
+- de103384-AR2_-_1_frame_1190.jpg
+- dec95056-AR2_-_1_frame_3035.jpg
+- df742159-AR2_-_1_frame_2110.jpg
+- df824339-AR2_-_1_frame_1815.jpg
+- dfbf2205-CP001-P032-1BC-P2_video_4_frame_1151.jpg
+- e03da331-CB111-P2_AR2_frame_1134.jpg
+- e05a9c47-CB144-P2_AR2_frame_249.jpg
+- e0be4163-CP001-P028-1BC-P2_video_4_frame_1726.jpg
+- e19e1a21-AR2_-_1_frame_2557.jpg
+- e1ab3412-AR2_-_1_frame_1282.jpg
+- e280e1cd-CB144-P2_AR2_frame_1448.jpg
+- e2e01688-CP001-P028-1BC-P2_video_4_frame_498.jpg
+- e2f990c5-CB096-P2_AR2_1_frame_554.jpg
+- e378e7a4-CP001-P032-1BC-P2_video_4_frame_2245.jpg
+- e3e065ef-CB096-P2_AR2_1_frame_278.jpg
+- e46ff661-CP001-P032-1BC-P2_video_4_frame_1084.jpg
+- e489fa63-CB096-P2_AR2_1_frame_354.jpg
+- e58cdd34-CB111-P2_AR2_frame_663.jpg
+- e5f08c95-CP001-P039-1BC-P2_video_3_frame_656.jpg
+- e7c5799f-CP001-P039-1BC-P2_video_2_frame_161.jpg
+- e80459d7-CP001-P038-1BC-P2_video_2_frame_1812.jpg
+- e895eb78-AR2_-_1_frame_3047.jpg
+- e8b7576b-CP001-P032-1BC-P2_video_4_frame_659.jpg
+- e8e84c4b-CP001-P039-1BC-P2_video_2_frame_616.jpg
+- ea8e5590-CB111-P2_AR2_frame_979.jpg
+- eac042fe-CP001-P039-1BC-P2_video_2_frame_640.jpg
+- eb67267b-CP001-P038-1BC-P2_video_2_frame_260.jpg
+- ebfcb489-CB096-P2_AR2_1_frame_508.jpg
+- ec5007b9-AR2_-_1_frame_1637.jpg
+- eeedf8cd-CB111-P2_AR2_frame_1092.jpg
+- ef5c6ada-CP001-P038-1BC-P2_video_2_frame_1361.jpg
+- f07e6842-AR2_-_1_frame_1894.jpg
+- f0a1c651-CP001-P039-1BC-P2_video_2_frame_239.jpg
+- f22e4749-AR2_-_1_frame_1125.jpg
+- f237184e-CB111-P2_AR2_frame_978.jpg
+- f2658a27-CP001-P032-1BC-P2_video_4_frame_753.jpg
+- f271153a-AR2_-_1_frame_1819.jpg
+- f3053a6c-AR2_-_1_frame_1403.jpg
+- f35f1f45-CP001-P028-1BC-P2_video_4_frame_1452.jpg
+- f383ea19-CB144-P2_AR2_frame_1444.jpg
+- f3ad5822-CP001-P028-1BC-P2_video_4_frame_1344.jpg
+- f46a096d-CB111-P2_AR2_frame_311.jpg
+- f4cae1c4-CP001-P032-1BC-P2_video_4_frame_2807.jpg
+- f52d84a6-CB111-P2_AR2_frame_1423.jpg
+- f584a486-AR2_-_1_frame_1405.jpg
+- f690306f-AR2_-_1_frame_1997.jpg
+- f691a157-AR2_-_1_frame_2459.jpg
+- f6ddfd81-AR2_-_1_frame_2109.jpg
+- f77358db-CB111-P2_AR2_frame_1073.jpg
+- f7cef475-CP001-P039-1BC-P2_video_2_frame_485.jpg
+- f8b58786-CP001-P032-1BC-P2_video_4_frame_2218.jpg
+- f9185e65-CP001-P038-1BC-P2_video_2_frame_1236.jpg
+- f952aaaf-CP001-P038-1BC-P2_video_2_frame_563.jpg
+- f98d035f-CP001-P038-1BC-P2_video_2_frame_1700.jpg
+- fa7262b6-CP001-P032-1BC-P2_video_4_frame_940.jpg
+- fb7803b2-AR2_-_1_frame_2463.jpg
+- fbc60aba-CP001-P028-1BC-P2_video_4_frame_173.jpg
+- fc298d91-CP001-P028-1BC-P2_video_4_frame_642.jpg
+- fda3fc62-AR2_-_1_frame_2107.jpg
+- fe52d920-AR2_-_1_frame_1669.jpg
+- fe83b533-CB144-P2_AR2_frame_378.jpg
+- fee2eb59-CP001-P038-1BC-P2_video_2_frame_1300.jpg
+- feffa753-CP001-P028-1BC-P2_video_4_frame_504.jpg
+- ff9677b1-CP001-P028-1BC-P2_video_4_frame_1371.jpg
+- ff969811-CB111-P2_AR2_frame_1027.jpg
+weights_folder: C:\ConceivableProjects\Rutine2\v0.0.4\Weights
+y_folder_path: yolov5
+yamls_folder: C:\ConceivableProjects\Rutine2\v0.0.4\Config
+yolov5l_classes_config_yaml: C:\ConceivableProjects\Rutine2\v0.0.4\Config\yolov5l_classes_config.yaml

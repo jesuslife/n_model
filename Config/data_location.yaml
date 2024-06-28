@@ -1,0 +1,5 @@
+names:
+  0: coc
+path: C:\ConceivableProjects\Rutine2\v0.0.4\Data
+train: images\train
+val: images\val
