@@ -3,9 +3,5 @@ outs:
   path: Weights
   files:
   - relpath: pre.pt
-    md5: 6a3a44a1e716f64b97335fb8e192796f
-    size: 92759296
-    cloud:
-      storage:
-        etag: 08f49cb2d983ff86031001
-        version_id: '1719602818879092'
+    md5: 2c1e2e566abe3b46db2c82bd3d960d14
+    size: 92787029
