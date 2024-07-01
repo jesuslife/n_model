@@ -2,20 +2,6 @@ outs:
 - hash: md5
   path: Weights
   files:
-  - relpath: best.onnx
-    md5: 0058aeddaed955cb1ddec40001e6bc27
-    size: 184910367
-    cloud:
-      storage:
-        etag: 08cff88fdf83ff86031001
-        version_id: '1719602830900303'
-  - relpath: best.pt
-    md5: f7ed5080fc3055091785a0f0e2a68a67
-    size: 92754709
-    cloud:
-      storage:
-        etag: 08f29187de83ff86031001
-        version_id: '1719602828658930'
   - relpath: pre.pt
     md5: 6a3a44a1e716f64b97335fb8e192796f
     size: 92759296
